@@ -1,0 +1,2 @@
+AUTODEPLOY https://github.com/wballard/echo.git
+PUBLISH 80 /echo2
