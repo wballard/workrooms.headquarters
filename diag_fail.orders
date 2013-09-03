@@ -1,2 +1,0 @@
-AUTODEPLOY https://github.com/intimonkey/starphleet-test.git
-PUBLISH 3000 AS 80 /later
