@@ -1,2 +1,2 @@
 AUTODEPLOY https://github.com/wballard/echo.git
-PUBLISH 3000 AS 8080 /echo2
+PUBLISH 3000 AS 80 /echo2
