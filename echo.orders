@@ -1,2 +1,2 @@
-AUTODEPLOY https://github.com/wballard/echo.git
-PUBLISH 3000 AS 80 /echo
+autodeploy https://github.com/wballard/echo.git
+publish --private 3000 --public 80  --url /echo
