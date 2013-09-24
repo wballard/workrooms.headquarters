@@ -1,2 +1,2 @@
 autodeploy https://github.com/intimonkey/starphleet-test.git
-publish --private 3000 --public 80  --url /echo
+publish --private 3000 --public 80  --url /echofail
