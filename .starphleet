@@ -1,1 +1,1 @@
-export PUSH_HEADQUARTERS=yes
+#This will be sourced in every starphleet job, so put 'global' things here
