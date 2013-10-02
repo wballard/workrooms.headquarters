@@ -3,4 +3,5 @@
 export HI=mom
 echo HI $HI
 autodeploy https://github.com/wballard/echo.git
-publish --private 3000 --public 80  --url /echo
+#echo runs in the container on 3000, publish it to the public at /echo
+publish --port 3000 --url /echo
