@@ -1,2 +1,0 @@
-autodeploy https://github.com/wballard/starphleet.dashboard.git
-publish --port 3030 --url /starphleet/dashboard/

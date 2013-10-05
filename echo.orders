@@ -1,7 +1,0 @@
-#you can set environment variables here that will be included with your service
-#remember, this is just a shellscript that runs 'before' your service starts
-export HI=mom
-echo HI $HI
-autodeploy https://github.com/wballard/echo.git
-#echo runs in the container on 3000, publish it to the public at /echo
-publish --port 3000 --url /echo
