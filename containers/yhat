@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+source /tools
+
 info "Building Yhat scientific environment"
 
 function install_rpkg() {
