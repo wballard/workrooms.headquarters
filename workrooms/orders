@@ -1,3 +1,2 @@
 export PORT=9000
-export HOST=workrooms.glgresearch.com
-autodeploy https://github.com/wballard/workrooms.server.git#webpage
+autodeploy https://github.com/wballard/workrooms.server.git#roomonly
