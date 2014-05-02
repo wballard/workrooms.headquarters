@@ -1,2 +1,2 @@
 export PORT=9000
-autodeploy https://github.com/wballard/workrooms.server.git#roomonly
+autodeploy https://github.com/wballard/workrooms.server.git
